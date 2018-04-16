@@ -18,15 +18,33 @@
 		  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
 		<![endif]-->
   </head>
-  <body>
-	  <?php
-		include('navBar.html');
-	  ?>
+  <body class="text-center">
+	  <div class="cover-container d-flex h-100 p-3 mx-auto flex-column">
+	  <?php include 'shared/navBar.php'; ?>
+		  
+		  
+		  
+		  <div class="row">
+			  <div class="col-sm-12">
+				  <h1>Cool Story Bruh!</h1>
+			  </div>
+		  </div>
+
+		  <div class="row">
+			  <div class="col-sm-12">
+				  <p>So, I imagine this should show something.</p>
+			  </div>
+		  </div>
+	  </div>
+	  
+	  
+	  
+	  
+	  
 	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
 	<script src="js/jquery-1.11.3.min.js"></script>
 
 	<!-- Include all compiled plugins (below), or include individual files as needed --> 
 	<script src="js/bootstrap.js"></script>
-	  <h1>Cool Story Bruh!</h1>
   </body>
 </html>
