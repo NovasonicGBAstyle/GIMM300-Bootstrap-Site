@@ -26,7 +26,7 @@
 		  
 		  <div class="row">
 			  <div class="col-sm-4 text-right">
-			    <img src="images/UmbrellaJello.jpg" class="img-responsive img-circle img-resized" alt="Mario with an umbrella shot">
+			    <img src="images/UmbrellaJello_Small.jpg" class="img-responsive img-circle img-resized" alt="Mario with an umbrella shot">
 			  </div>
 			  <div class="col-sm-8">
 				  <h1>Meet Mario Townes</h1>
