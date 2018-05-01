@@ -3,7 +3,7 @@
 
 echo"<header class=\"masthead mb-auto\">";
 echo"<div class=\"inner\">";
-echo"<h3 class=\"masthead-brand\">Mario Townes</h3>";
+echo"<h1 class=\"masthead-brand\">Mario Townes</h1>";
 echo"<nav class=\"nav nav-masthead justify-content-center\">";
 echo"<a class=\"nav-link\" href=\"index.php\">Home</a>";
 echo"<a class=\"nav-link\" href=\"work.php\">Work</a>";

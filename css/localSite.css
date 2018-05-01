@@ -24,3 +24,26 @@ body {
 .img-resized {
 	max-height: 12em;
 }
+.flt_lft {
+	float: left;
+	margin-left: 5px;
+}
+
+.flt_rgt{
+	float: right;
+	margin-right: 5px;
+}
+.block {
+}
+
+.card-img-top {
+    width: 100%;
+    height: 5vw;
+    object-fit: cover;
+}
+
+.carousel-item .d-block{
+	height: 65vh;
+	text-align:center;
+	margin:auto;
+}
